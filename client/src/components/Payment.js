@@ -62,6 +62,7 @@ class CheckoutForm extends React.Component {
     );
   }
 }
+// payment is disabled so that people can't actually pay us //
 
 const InjectedCheckoutForm = () => {
   return (
